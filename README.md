@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Srinivasu
+I am a Full Stack Developer based in India and have experience building products using Java, Spring, JavaScript, Node. Currently working with GraphQL in Spring Ecosystem.
 
-<!--
-**srinivasu619/srinivasu619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Latest Project
+Recently developed Vue JS and Node JS based project called **[Polls](https://app-polls.netlify.app/)** with GraphQL API Spec. Please check it out leave a ⭐ if you like it.
 
-Here are some ideas to get you started:
+#### Latest UI Design
+I like to implement Web/Mobile UI Interfaces/Designs, check out the other designs featured on my [Behance](https://www.behance.net/srinivasu) profile. Implemented using **HTML**, **CSS** and **Javascript**. Below is the latest design I have created with inspiration from Kanban Strategy for Project Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tasuku - タスク |
+:-------------: |
+<img src="https://i.imgur.com/bieSdTL.png" height="400" />
+
+I would be very happy if 😊 you check out my other projects on Github.
