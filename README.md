@@ -1,4 +1,4 @@
-### Hi there 👋 I am Srinivasu
+### Hi there 👋 I am Kotla Soma Srinivasu
 I am a Full Stack Developer based in India and have experience building products using Java, Spring, JavaScript, Node. Currently working with GraphQL in Spring Ecosystem.
 
 #### Latest Project
