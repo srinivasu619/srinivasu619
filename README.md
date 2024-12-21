@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Kotla Soma Srinivasu
-I am a Full Stack Developer based in India and have experience building products using Java, Spring, JavaScript, Node. Currently working with GraphQL in Spring Ecosystem.
+I am a Full Stack Developer/ Tech Lead by Profession and have experience building products using Java, Spring, JavaScript, Node. Currently working with GraphQL in Spring Ecosystem.
 
 #### Latest Project
 Recently developed Vue JS and Node JS based project called **[Polls](https://app-polls.netlify.app/)** with GraphQL API Spec. Please check it out leave a ⭐ if you like it.
